@@ -1,1 +1,1 @@
-# UserManagementRESTfulAPI
+This Node.js project is a User Management REST API built with the Express framework and MongoDB. It allows users to perform CRUD (Create, Read, Update, Delete) operations on user records stored in a MongoDB database. The API follows RESTful conventions, providing endpoints for retrieving all users, getting a user by ID, updating a user, deleting a user, and creating a new user.
