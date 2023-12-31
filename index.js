@@ -4,7 +4,7 @@ const PORT = 8000;
 const {connectMongoDb} =require('./connection');
 const userRouter = require("./routes/user");
 //connection of mongoose
-connectMongoDb("mongodb://127.0.0.1:27017/harshapp2");
+connectMongoDb("URL to connect mongoDB");
 
 
 
